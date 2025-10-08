@@ -91,5 +91,3 @@ Internship Project — Data Analysis using Dask
 This project is for educational and research purposes.
 Dataset © Stats NZ | Code © Tanya V, 2025
 
-This project is for educational and research purposes.
-Dataset © Stats NZ | Code © Tanya V, 2025
